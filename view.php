@@ -48,7 +48,7 @@ if (isset($_GET["saveGame_Show"])) {
         $num++;
     }
     echo $id;
-    $email_to='';
+    $email_to='anthonyfchaves@gmail.com';
 
     $subject = 'Game Show Form';
     $headers = "MIME-Version: 1.0\r\n";
